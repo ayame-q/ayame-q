@@ -1,12 +1,7 @@
-### ayame-q
+[![Portfolio Site](https://github.com/ayame-q/ayame-q/blob/main/eyecatch.svg)](https://ayame.me)
 
-UI/UX & Web Designer, Front-end & Web Enginner.
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayame-q)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayame-q&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-* Portfolio site: [ayame.me](https://ayame.me/)
-* Twitter: [@ayame_q](https://twitter.com/ayame_q)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayame-q&hide_border=true&title_color=AF9679&text_color=2C3838)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayame-q&layout=compact&theme=default&hide_border=true&title_color=AF9679&text_color=2C3838)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ayame-q/ayame-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
