@@ -2,7 +2,7 @@
 
 UI/UX & Web Designer, Front-end & Web Enginner.
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayame-q)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayame-q&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 * Portfolio site: [ayame.me](https://ayame.me/)
