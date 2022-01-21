@@ -1,4 +1,12 @@
-### Hi there 👋
+### ayame-q
+
+UI/UX & Web Designer, Front-end & Web Enginner.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayame-q&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+* Portfolio site: [ayame.me](https://ayame.me/)
+* Twitter: [@ayame_q](https://twitter.com/ayame_q)
 
 <!--
 **ayame-q/ayame-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
