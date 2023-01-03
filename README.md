@@ -3,12 +3,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayame-q&hide_border=true&title_color=AF9679&text_color=2C3838)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayame-q&layout=compact&theme=default&hide_border=true&title_color=AF9679&text_color=2C3838)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,xd,ps,vue,sass,css,html,js,django,py,svelte,docker" />
-  </a>
-</p>
-
 
 <!--
 **ayame-q/ayame-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
